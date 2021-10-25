@@ -5,4 +5,4 @@ Also, it is an improvement than hosting it on Codepen, which is painful.
 
 To play the game, it's easy, I hosted it on this url:
 
-https://justincodingprojects.github.io/The-Kart-Racing-Chicken-Collector/unitygame/index.html
+https://justincodingprojects.github.io/The-Kart-Racing-Chicken-Collector/
